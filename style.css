@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+ 
+ #game {
+    display: block;
+    margin: 0 auto;
+    border: 3px solid rgb(200, 0, 0);
+    background-image: url(src/images/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
